@@ -1,5 +1,5 @@
 # PHP-SQL-Work
-A relational  database has been create d
+A relational  database has been created
 in MySQL 
 to store details about
 badminton clubs in a county
