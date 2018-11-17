@@ -2,8 +2,7 @@
 A relational  database has been created
 in MySQL 
 to store details about
-badminton clubs in a county
-. 
+badminton clubs in a county. 
 There are five tables
 in the database
 : 
@@ -15,8 +14,7 @@ team
 , 
 teamPlayer
 and 
-fixture
-. 
+fixture. 
 A member is 
 registered with a 
 specific club; each club may have one or more teams. Some members are selected to 
